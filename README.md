@@ -9,6 +9,4 @@ Here you can see projects i'm working on
 
 <h2> </h2>
 
-📫 💬 Feel free to contact me at:
- [![Gmail Badge](https://img.shields.io/badge/-shtetali@gmail.com
--c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shtetali@gmail.com)](mailto:shtetali@gmail.com)
+📫 💬 Feel free to contact me at: shtetali@gmail.com
